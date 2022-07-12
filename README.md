@@ -1,5 +1,5 @@
-<h1 align="center">torry2</h1>
-<h3 align="center">check out my website: <a href="https://torrytw.ooo">here</a></h3>
+<h1 align="left">torry2</h1>
+<h3 align="left">my website: <a href="https://torrytw.ooo">link</a></h3>
 
 ![](https://komarev.com/ghpvc/?username=torry2)
 <br>
