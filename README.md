@@ -1,5 +1,5 @@
 <h1 align="left">torry2</h1>
-<h3 align="left">my website: <a href="https://torry2.info">link</a> my contact: mail@torry2.info</h3>
+<h3 align="left">my website: <a href="https://torry2.info">link</a> | contact: <a href="mailto:mail@torry2.info">mailto</a></h3>
 
 ![](https://komarev.com/ghpvc/?username=torry2)
 <br>
